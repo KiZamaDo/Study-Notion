@@ -31,11 +31,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "https://github.com/KiZamaDo/Study-Notion"
   },
-  "author": "Pranay Gupta",
+  "author": "Anubhav Thakur",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/KiZamaDo/Study-Notion"
   },
   "scripts": {
     "start": "react-scripts start",
